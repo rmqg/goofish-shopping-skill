@@ -93,4 +93,4 @@ https://www.goofish.com/item?id=xxxxx 这个靠谱吗?卖家信誉帮我看看
 
 ## License
 
-MIT
+GPL-3.0-only — see [LICENSE](LICENSE). Previously published versions remain under the MIT terms in [LICENSE-MIT](LICENSE-MIT).
